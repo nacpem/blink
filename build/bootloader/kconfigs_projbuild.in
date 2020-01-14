@@ -1,0 +1,3 @@
+source "/home/pemubuntu/espressif/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/pemubuntu/espressif/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/pemubuntu/espressif/esp-idf/components/partition_table/Kconfig.projbuild"

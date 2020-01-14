@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/pemubuntu/espressif/workspace/blink/build/CMakeFiles/bootloader
+/home/pemubuntu/espressif/workspace/blink/build/CMakeFiles/bootloader.rule
+/home/pemubuntu/espressif/workspace/blink/build/CMakeFiles/bootloader-complete.rule
+/home/pemubuntu/espressif/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/pemubuntu/espressif/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/pemubuntu/espressif/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/pemubuntu/espressif/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/pemubuntu/espressif/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/pemubuntu/espressif/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/pemubuntu/espressif/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
